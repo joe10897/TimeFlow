@@ -13,7 +13,7 @@
 - [x] Task: Conductor - User Manual Verification 'Foundation & Scaffolding' (bed29ca) (Protocol in workflow.md)
 
 ## Phase 2: Core Components & Layout
-- [ ] Task: Layout Architecture
+- [~] Task: Layout Architecture
     - [ ] Create Root Layout with SEO metadata.
     - [ ] Build a responsive Navbar (Logo, Links, Mobile Menu).
     - [ ] Build a minimal Footer.
