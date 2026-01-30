@@ -1,7 +1,7 @@
 # Implementation Plan: Landing Page MVP
 
 ## Phase 1: Foundation & Scaffolding
-- [~] Task: Initialize Next.js Project
+- [x] Task: Initialize Next.js Project ()
     - [ ] Initialize Next.js app with TypeScript, Tailwind, and ESLint.
     - [ ] Configure `tsconfig.json` for strict mode and path aliases (`@/`).
     - [ ] Install core dependencies: `framer-motion`, `lucide-react`, `clsx`, `tailwind-merge`.
