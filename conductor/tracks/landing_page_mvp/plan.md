@@ -17,7 +17,7 @@
     - [ ] Create Root Layout with SEO metadata.
     - [ ] Build a responsive Navbar (Logo, Links, Mobile Menu).
     - [ ] Build a minimal Footer.
-- [~] Task: Hero Section
+- [x] Task: Hero Section (2669e81)
     - [ ] Implement Hero component with large typography and CTA.
     - [ ] Add entrance animations using Framer Motion (staggered fade-in).
 - [ ] Task: Conductor - User Manual Verification 'Core Components & Layout' (Protocol in workflow.md)
