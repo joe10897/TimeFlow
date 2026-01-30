@@ -5,7 +5,7 @@
     - [ ] Initialize Next.js app with TypeScript, Tailwind, and ESLint.
     - [ ] Configure `tsconfig.json` for strict mode and path aliases (`@/`).
     - [ ] Install core dependencies: `framer-motion`, `lucide-react`, `clsx`, `tailwind-merge`.
-- [ ] Task: Design System Setup
+- [~] Task: Design System Setup
     - [ ] Configure Tailwind `globals.css` with CSS variables for the Color Palette (Dark Mode default).
     - [ ] Setup font family (Inter or generic sans-serif optimized for UI).
     - [ ] Initialize Shadcn/ui and add base components (Button, Card, Sheet).
