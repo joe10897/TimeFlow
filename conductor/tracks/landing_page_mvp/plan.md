@@ -23,7 +23,7 @@
 - [x] Task: Conductor - User Manual Verification 'Core Components & Layout' (f668092) (Protocol in workflow.md)
 
 ## Phase 3: Advanced Sections (Bento & Pricing)
-- [~] Task: Features Section (Bento Grid)
+- [x] Task: Features Section (Bento Grid) (7bd73b6)
     - [ ] Create a `BentoGrid` container component.
     - [ ] Implement individual `BentoCard` components for "Slide to Clock-in", "Dashboard", etc.
     - [ ] Add hover effects (scale/glow) to cards.
