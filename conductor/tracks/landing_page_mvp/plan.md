@@ -12,7 +12,7 @@
     - [ ] Create a `cn` utility for class merging.
 - [x] Task: Conductor - User Manual Verification 'Foundation & Scaffolding' (bed29ca) (Protocol in workflow.md)
 
-## Phase 2: Core Components & Layout
+## Phase 2: Core Components & Layout [checkpoint: f668092]
 - [x] Task: Layout Architecture (ae4f172)
     - [ ] Create Root Layout with SEO metadata.
     - [ ] Build a responsive Navbar (Logo, Links, Mobile Menu).
@@ -20,7 +20,7 @@
 - [x] Task: Hero Section (2669e81)
     - [ ] Implement Hero component with large typography and CTA.
     - [ ] Add entrance animations using Framer Motion (staggered fade-in).
-- [ ] Task: Conductor - User Manual Verification 'Core Components & Layout' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Core Components & Layout' (f668092) (Protocol in workflow.md)
 
 ## Phase 3: Advanced Sections (Bento & Pricing)
 - [ ] Task: Features Section (Bento Grid)
