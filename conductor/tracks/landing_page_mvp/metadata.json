@@ -1,0 +1,8 @@
+{
+  "track_id": "landing_page_mvp",
+  "type": "feature",
+  "status": "new",
+  "created_at": "2026-01-30T15:35:00Z",
+  "updated_at": "2026-01-30T15:35:00Z",
+  "description": "Initialize Next.js project and build the high-fidelity Landing Page MVP"
+}
